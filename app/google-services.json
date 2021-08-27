@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "551677093608",
+    "project_id": "spotifylogin-dfd1c",
+    "storage_bucket": "spotifylogin-dfd1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551677093608:android:4e1d2df75e2c73529b8b5d",
+        "android_client_info": {
+          "package_name": "com.example.spotifylogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551677093608-9knuo4emb5jn049vkfbpnvtq4o5ec2a1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGQ4C8IoUO1Apa5Sx8HcsXv32jMbQnvJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551677093608-9knuo4emb5jn049vkfbpnvtq4o5ec2a1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
